@@ -5,4 +5,4 @@ In this repository you could find the *Shiny app's source code (ui.R and server.
 
 The application is being hosted at  (https://aysegulzemnos.shinyapps.io/DataProductsShinyWebapp/).
 
-Access to slidy_presentation at   (http://rpubs.com/Aysegulsonmez/373471)
+Access to slidy presentation at   (http://rpubs.com/Aysegulsonmez/373471)
